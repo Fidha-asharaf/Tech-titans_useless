@@ -1,33 +1,33 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# chill with your mood
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Tech titans
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Fidha Fathima  - AISAT
+- Member 2: Sarun raj - AISAT
+- Member 3: Athul Yesudas- AISAT
 
 ### Project Description
-[2-3 lines about what your project does]
+Recommending music by analysing user's mood using facial recoganisation
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+finding right song for right mood
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+by analysising user's mood using facial recognisation
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Python
+- no framework pure python code
+- random
+- No external tool used
 
 For Hardware:
 - [List main components]
@@ -40,7 +40,7 @@ For Software:
 [commands]
 
 # Run
-[commands]
+python song_recommender.py
 
 ### Project Documentation
 For Software:
@@ -86,11 +86,10 @@ For Hardware:
 # Additional Demos
 [Add any extra demo materials/links]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
+## Team Contributions: [Specific contributions]
+- Fidha fathima : programmer  
+- Sarun raj: main brain of the project 
+- Athul yesudas : assist in coding
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
